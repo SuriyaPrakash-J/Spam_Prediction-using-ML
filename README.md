@@ -15,7 +15,7 @@ nltk – Natural Language Toolkit for text preprocessing
 
 # 🎯 Objective
 
-To develop a machine learning model that can:
+
 Understand patterns in email texts.
 Accurately classify them as spam or ham.
 Be used in real-world applications like email clients for filtering spam.
