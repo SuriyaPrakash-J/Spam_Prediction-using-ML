@@ -1,4 +1,4 @@
-# 📧 Spam Mail Prediction
+
 # 📝 Project Overview
 
 This project focuses on building a spam detection system that classifies email messages as either spam or ham (non-spam). It uses Natural Language Processing (NLP) and Machine Learning (ML) techniques to train a model that can predict whether an email is legitimate or malicious.
